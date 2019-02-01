@@ -98,3 +98,9 @@
     background-color: #F5F5F5;
     color: #ccc;
 }
+figure {
+    display: inline;
+}
+div[data-contents="true"]>div {
+    display: none;
+}
